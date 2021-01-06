@@ -25,21 +25,24 @@ An index for the structure of this repository is given below:
 
 * **[`Cardiomyocytes_data.xlsx`](Cardiomyocytes_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of heart cells, mainly cardiomyocytes
 
-* **[`Endothelial cells.ipynb`](Endothelial cells.ipynb)|** code for estimating the number and turnover rates of endothelial cells
+* **[`Endothelial_cells.ipynb`](Endothelial_cells.ipynb)|** code for estimating the number and turnover rates of endothelial cells
 
 * **[`Endothelial_cells_data.xlsx`](Endothelial_cells_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of endothelial cells
 
 * **[`Erythrocytes.ipynb`](Erythrocytes.ipynb)|** code for estimating the number and turnover rates of erythrocytes (RBC)
 
-* **[`Erythrocytes_data.xlsx`](Erythrocytes_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of erythrocytes (RBC)
+* **[`RBC_data.xlsx`](RBC_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of erythrocytes (RBC)
 
-* **[`GIT Epithelial cells.ipynb`](GIT Epithelial cells.ipynb)|** code for estimating the number and turnover rates of the epithelial cells of the GI tract (stomach, small and large intestine)
+* **[`GIT_Epithelial_cells.ipynb`](GIT_Epithelial_cells.ipynb)|** code for estimating the number and turnover rates of the epithelial cells of the GI tract (stomach, small and large intestine)
 
 * **[`GIT_epithel_data.xlsx`](GIT_epithel_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of the epithelial cells of the GI tract (stomach, small and large intestine)
 
-* **[`Liver cells.ipynb`](Liver cells.ipynb)|** code for estimating the number and turnover rates of liver cells
+* **[`Liver_cells.ipynb`](Liver_cells.ipynb)|** code for estimating the number and turnover rates of liver cells
 
 * **[`Liver_cells_data.xlsx`](Liver_cells_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of liver cells
+
+
+
 
 
 * **[`bacteria_archaea/`](./bacteria_archaea)|** Data and code for estimating the total biomass of bacteria & arechaea
