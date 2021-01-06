@@ -17,7 +17,7 @@ An index for the structure of this repository is given below:
 
 * **[`Adipocytes_data.xlsx`](./Adipocytes_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of adipocytes (fat cells)
 
-* **[`Brain Cells.ipynb`](./Brain_Cells.ipynb)|** code for estimating the number and turnover rates of brain cells: neurons and glial cells
+* **[`Brain_cells.ipynb`](./Brain_cells.ipynb)|** code for estimating the number and turnover rates of brain cells: neurons and glial cells
 
 * **[`Brain_data.xlsx`](/Brain_data.xlsx)|** curated data from the literature for estimating the number and turnover rates of brain cells: neurons and glial cells
 
