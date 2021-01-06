@@ -8,8 +8,7 @@ Most of the files are given per tissue:
 
     2. The source code is given in a .ipynb file
 
-In addition two general notebooks: one contains utility functions and the other a code for running all the notebooks at ones.  
-The results are saved in another .xlsx file, a spreadsheet for each tissue.
+In addition two general notebooks: one contains utility functions and the other a code for running all the notebooks at ones. The results are saved in another .xlsx file, a spreadsheet for each cell type.
 
 ---
 
