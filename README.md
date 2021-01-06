@@ -1,6 +1,6 @@
 # The Distribution of Cellular Turnover in the Human Body
 
-This repository contains all source data and code for the analysis found in ["The Distribution of Cellular Turnover in the Human Body"](https://www.nature.com/articles/s41591-020-01182-9) by Ron Sender and and Ron Milo. 
+This repository contains all source data and code for the analysis found in ["The Distribution of Cellular Turnover in the Human Body"](https://www.nature.com/articles/s41591-020-01182-9) by Ron Sender and and Ron Milo (Nature Medicine, 2021). 
 
 Most of the files are given per tissue:
 
