@@ -11,17 +11,19 @@ Most of the files are given per tissue:
 In addition two general notebooks: one contains utility functions and the other a code for running all the notebooks at ones.  
 The results are saved in another .xlsx file, a spreadsheet for each tissue.
 
+---
+
 An index for the structure of this repository is given below:
 
-Utility and summary: 
+### Utility and summary: 
 
 * **[`Utility_Functions.ipynb`](Utility_Functions.ipynb)|** code for defining utility functions for the calculations. For example the definition of a class that contains database of the properties of cell types of a given tissue.
-
-Tissue's data and analysis:
 
 * **[`Results_summary.ipynb`](Results_summary.ipynb)|** code for running the entire analysis, by calling the various notebooks.
 
 * **[`Summary.xlsx`](Summary.xlsx)|** in this excel file, the results are being saved. Each cell type in its unique spreadsheet.
+
+### Tissue's data and analysis:
 
 * **[`Adipocytes.ipynb`](./Adipocytes.ipynb)|** code for estimating the number and turnover rates of adipocytes (fat cells)
 
